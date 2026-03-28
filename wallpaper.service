@@ -1,0 +1,9 @@
+[Unit]
+Description=Wallpaper Changer
+
+[Service]
+ExecStart=%h/PersonalProjects/WallpapperChanging/wallpaper_changer.sh
+Restart=always
+
+[Install]
+WantedBy=default.target

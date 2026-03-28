@@ -35,7 +35,7 @@ WallpapperChanging/
 ### 1. Clonar repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/WallpapperChanging.git
+git clone [https://github.com/SEU_USUARIO/WallpapperChanging.git](https://github.com/MateusMo/Ubuntu-Wallpapper-Changing)
 cd WallpapperChanging
 ```
 
